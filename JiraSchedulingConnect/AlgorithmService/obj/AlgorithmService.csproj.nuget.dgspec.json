@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\AlgorithmService\\AlgorithmService.csproj": {}
+  },
+  "projects": {
+    "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\AlgorithmService\\AlgorithmService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\AlgorithmService\\AlgorithmService.csproj",
+        "projectName": "AlgorithmService",
+        "projectPath": "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\AlgorithmService\\AlgorithmService.csproj",
+        "packagesPath": "C:\\Users\\area1\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\AlgorithmService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\area1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\ModelLibrary\\ModelLibrary.csproj": {
+                "projectPath": "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\ModelLibrary\\ModelLibrary.csproj"
+              },
+              "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\RcpspAlgorithmLibrary\\RcpspAlgorithmLibrary.csproj": {
+                "projectPath": "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\RcpspAlgorithmLibrary\\RcpspAlgorithmLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.18.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\ModelLibrary\\ModelLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\ModelLibrary\\ModelLibrary.csproj",
+        "projectName": "ModelLibrary",
+        "projectPath": "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\ModelLibrary\\ModelLibrary.csproj",
+        "packagesPath": "C:\\Users\\area1\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\ModelLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\area1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\RcpspAlgorithmLibrary\\RcpspAlgorithmLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\RcpspAlgorithmLibrary\\RcpspAlgorithmLibrary.csproj",
+        "projectName": "RcpspAlgorithmLibrary",
+        "projectPath": "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\RcpspAlgorithmLibrary\\RcpspAlgorithmLibrary.csproj",
+        "packagesPath": "C:\\Users\\area1\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\RcpspAlgorithmLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\area1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\ModelLibrary\\ModelLibrary.csproj": {
+                "projectPath": "D:\\SourceCodes\\Git\\JiraSchedulingConnect\\ModelLibrary\\ModelLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

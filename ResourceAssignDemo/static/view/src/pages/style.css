@@ -1,0 +1,40 @@
+table{
+    border-radius: 10px;
+}
+
+table th{
+    font-size: 14px !important;
+    height: 40px;
+    box-sizing: border-box;
+}
+
+table th span{
+    margin-top: 7px;
+    display: block;
+}
+
+table tr:nth-child(even){
+    background-color: #eee;
+}
+
+table th button{
+    padding: 10px !important;
+}
+table th button::after{
+    bottom: 14px !important;
+}
+table th button::before{
+    bottom: 20px !important;
+}
+
+table thead{
+    background-color: rgba(0, 82, 204, 0.1);
+}
+
+table .gray-row{
+    background-color: #eee;
+}
+
+.text-center{
+    text-align: center;
+}

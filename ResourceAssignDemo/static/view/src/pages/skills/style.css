@@ -1,0 +1,47 @@
+.skills-page table{
+    border-radius: 10px;
+}
+
+.skills-page table th{
+    font-size: 14px;
+    height: 30px;
+    box-sizing: border-box;
+}
+
+.skills-page table th span{
+    margin-top: 7px;
+    display: block;
+}
+
+.skills-page table tr{
+    height: 40px;
+    box-sizing: border-box;
+}
+.skills-page table tr:nth-child(even){
+    background-color: #eee;
+}
+
+.skills-page table th button{
+    padding: 10px;
+}
+
+.skills-page table thead{
+    background-color: rgba(0, 82, 204, 0.1);
+}
+.skills-page table .gray-row{
+    background-color: #eee;
+}
+
+.skills-page table tr .actions{
+    display: none;
+    text-align: right;
+    padding-right: 20px;
+}
+
+.skills-page table tr .actions button{
+    display: inline-block;
+}
+
+.skills-page table tr:hover .actions{
+    display: block;
+}

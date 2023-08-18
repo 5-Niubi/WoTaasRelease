@@ -1,0 +1,36 @@
+table {
+	border-collapse: collapse;
+	margin-bottom: 20px;
+}
+th,
+td {
+	border: 1px solid black;
+	padding: 8px;
+}
+.task {
+	border: 1px solid black;
+	padding: 5px;
+	margin-bottom: 5px;
+}
+.resource {
+	background-color: lightgray;
+	margin: 2px;
+	padding: 2px;
+	cursor: move;
+}
+
+
+.titleText {
+    font-size: 1rem;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    padding-bottom: 35px;
+    padding-top: 50px;
+    font-weight: 500;
+}
+
+.hidden {
+	display: none;
+}
+

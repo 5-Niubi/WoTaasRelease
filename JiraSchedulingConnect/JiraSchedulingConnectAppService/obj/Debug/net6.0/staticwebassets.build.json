@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "B12mjvVCMjHz8X71rdZyTkrN/MEqP0s8M+TBkevG+r0=",
+  "Source": "JiraSchedulingConnectAppService",
+  "BasePath": "_content/JiraSchedulingConnectAppService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JiraSchedulingConnectAppService\\wwwroot",
+      "Source": "JiraSchedulingConnectAppService",
+      "ContentRoot": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\JiraSchedulingConnectAppService\\wwwroot\\",
+      "BasePath": "_content/JiraSchedulingConnectAppService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

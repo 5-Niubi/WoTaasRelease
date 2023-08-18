@@ -1,0 +1,51 @@
+modules:
+  jira:globalPage:
+    - key: resourceassigndemo-hello-world-page
+      resource: main
+      resolver:
+        function: resolver
+      title: WoTaas
+      layout: blank
+  # Khai báo webtrigger cho server callback lúc grant quyền
+  webtrigger:
+    - key: authen-app-web-trigger-key
+      function: authen-trigger-function
+    - key: logout-web-trigger-key
+      function: logout-trigger-function
+  function:
+    - key: resolver
+      handler: index.handler
+    - key: authen-trigger-function
+      handler: trigger.authenBECallbackTrigger
+    - key: logout-trigger-function
+      handler: trigger.logoutTrigger
+
+resources:
+  - key: main
+    path: static/view/build
+    tunnel:
+      port: 3000
+app:
+  # Replace app id here
+  id: ari:cloud:ecosystem::app/87284dfd-9947-4a51-a7bb-20a3c938db04
+  #----#
+  licensing:
+    enabled: true
+
+permissions:
+  external:
+    fetch:
+      backend:
+        - "*.ngrok-free.app"
+        - "https://be.ai4cert.com"
+        - "*.loca.lt"
+  content:
+    styles:
+      - unsafe-inline
+  scopes:
+    - storage:app
+    - read:jira-work
+    - write:jira-work
+    - manage:jira-configuration
+    - read:jira-user
+    - read:me

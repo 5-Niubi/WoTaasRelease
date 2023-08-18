@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ResourceAssignAdmin
+build_property.RootNamespace = ResourceAssignAdmin
+build_property.ProjectDir = D:\SourceCodes\Git\WoTaasRelease\JiraSchedulingConnect\ResourceAssignAdmin\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\SourceCodes\Git\WoTaasRelease\JiraSchedulingConnect\ResourceAssignAdmin
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Authentication/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Authentication/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25cTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Plan/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Plan/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Plan/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Plan/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Plan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Subscription/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Vic2NyaXB0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Subscription/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Vic2NyaXB0aW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Subscription/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Vic2NyaXB0aW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Subscription/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Vic2NyaXB0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Subscription/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Vic2NyaXB0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Upgrade/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBncmFkZVxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Upgrade/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBncmFkZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Upgrade/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBncmFkZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Upgrade/PaymentSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBncmFkZVxQYXltZW50U3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wnvjch1rjw
+
+[D:/SourceCodes/Git/WoTaasRelease/JiraSchedulingConnect/ResourceAssignAdmin/Pages/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-httnt7elk1

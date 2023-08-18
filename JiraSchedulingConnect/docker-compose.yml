@@ -1,0 +1,27 @@
+version: '3.4'
+services:
+  algorithmservice:
+    image: ${DOCKER_REGISTRY-}algorithmservice
+    build:
+      context: .
+      dockerfile: AlgorithmService/Dockerfile
+    networks:
+      - internal-network
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+  jiraschedulingconnectappservice:
+    image: ${DOCKER_REGISTRY-}jiraschedulingconnectappservice
+    build:
+      context: .
+      dockerfile: JiraSchedulingConnectAppService/Dockerfile
+    ports:
+      - "5126:80"
+      - "8443:80"
+      - "80:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - internal-network
+networks:
+  internal-network:
+    driver: bridge

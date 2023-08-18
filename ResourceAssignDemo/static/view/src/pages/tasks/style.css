@@ -1,0 +1,101 @@
+.tasks-container{
+    border-left: 1px solid #ccc;
+    padding-left: 5px;
+    min-height: calc(100vh - 170px);
+}
+
+.tasks-container table{
+    border-radius: 10px;
+}
+
+.tasks-container table th{
+    font-size: 14px;
+    height: 30px;
+    box-sizing: border-box;
+}
+
+.tasks-container table th span{
+    margin-top: 7px;
+    display: block;
+}
+
+.tasks-container table tr{
+    height: 40px;
+    box-sizing: border-box;
+}
+.tasks-container table tr:nth-child(even){
+    background-color: #eee;
+}
+
+.tasks-container table th button{
+    padding: 10px;
+}
+
+.tasks-container table thead{
+    background-color: rgba(0, 82, 204, 0.1);
+}
+.tasks-container table .gray-row{
+    background-color: #eee;
+}
+
+.tasks-container table tr .actions{
+    display: none;
+    text-align: right;
+    padding-right: 20px;
+}
+
+.tasks-container table tr .actions button{
+    display: inline-block;
+}
+
+.tasks-container table tr:hover .actions{
+    display: block;
+}
+
+.task-groups table th{
+    font-size: 14px;
+    height: 30px;
+    box-sizing: border-box;
+}
+.task-groups table th span{
+    margin-top: 7px;
+    display: block;
+}
+.task-groups tbody tr {
+    position: relative;
+    height: 40px;
+    cursor: pointer;
+    background-color: #fff;
+}
+
+.task-groups thead tr, .task-groups tr:nth-child(even) {
+    background-color: #fff;
+}
+
+.task-groups tr[data-ts--dynamic-table--table-row--highlighted="true"] {
+    background-color: var(--ds-background-selected, var(--local-dynamic-table-highlighted-bg));
+}
+
+.task-groups tr td {
+    padding: 0 10px !important;
+    border-radius: 8px;
+}
+
+.task-groups tbody tr:hover{
+    background-color: #eee;
+}
+
+.task-groups tr .actions {
+    display: none;
+    position: absolute;
+    top: 5px;
+    right: 0;
+}
+
+.task-groups tr:hover .actions {
+    display: inline-block;
+}
+
+.text-center{
+    text-align: center;
+}

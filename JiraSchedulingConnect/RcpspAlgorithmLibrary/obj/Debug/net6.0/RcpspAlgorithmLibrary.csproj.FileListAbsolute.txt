@@ -1,0 +1,17 @@
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\bin\Debug\net6.0\RcpspAlgorithmLibrary.deps.json
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\bin\Debug\net6.0\RcpspAlgorithmLibrary.dll
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\bin\Debug\net6.0\RcpspAlgorithmLibrary.pdb
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\bin\Debug\net6.0\ModelLibrary.dll
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\bin\Debug\net6.0\UtilsLibrary.dll
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\bin\Debug\net6.0\ModelLibrary.pdb
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\bin\Debug\net6.0\UtilsLibrary.pdb
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\obj\Debug\net6.0\RcpspAlgorithmLibrary.csproj.AssemblyReference.cache
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\obj\Debug\net6.0\RcpspAlgorithmLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\obj\Debug\net6.0\RcpspAlgorithmLibrary.AssemblyInfoInputs.cache
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\obj\Debug\net6.0\RcpspAlgorithmLibrary.AssemblyInfo.cs
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\obj\Debug\net6.0\RcpspAlgorithmLibrary.csproj.CoreCompileInputs.cache
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\obj\Debug\net6.0\RcpspAlgorithmLibrary.csproj.CopyComplete
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\obj\Debug\net6.0\RcpspAlgorithmLibrary.dll
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\obj\Debug\net6.0\refint\RcpspAlgorithmLibrary.dll
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\obj\Debug\net6.0\RcpspAlgorithmLibrary.pdb
+D:\SourceCodes\Git\JiraSchedulingConnect\RcpspAlgorithmLibrary\obj\Debug\net6.0\ref\RcpspAlgorithmLibrary.dll

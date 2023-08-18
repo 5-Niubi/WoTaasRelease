@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ResourceAssignAdmin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ResourceAssignAdmin.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\js\\site-chart.js",
+      "PackagePath": "staticwebassets\\js\\site-chart.js"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\chartjs\\chart.js",
+      "PackagePath": "staticwebassets\\lib\\chartjs\\chart.js"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\SourceCodes\\Git\\WoTaasRelease\\JiraSchedulingConnect\\ResourceAssignAdmin\\wwwroot\\lib\\moneyjs\\money.js",
+      "PackagePath": "staticwebassets\\lib\\moneyjs\\money.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ResourceAssignAdmin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ResourceAssignAdmin.props",
+      "PackagePath": "build\\ResourceAssignAdmin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ResourceAssignAdmin.props",
+      "PackagePath": "buildMultiTargeting\\ResourceAssignAdmin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ResourceAssignAdmin.props",
+      "PackagePath": "buildTransitive\\ResourceAssignAdmin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

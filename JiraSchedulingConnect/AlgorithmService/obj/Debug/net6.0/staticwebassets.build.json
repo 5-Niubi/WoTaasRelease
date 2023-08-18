@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Mi7tQqylIAaUIWdPJsVsM4geE4TNNb0TYfbBAq+2aEg=",
+  "Source": "AlgorithmServiceServer",
+  "BasePath": "_content/AlgorithmServiceServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
